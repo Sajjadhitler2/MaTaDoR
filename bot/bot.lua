@@ -78,18 +78,16 @@ function create_config( )
     "Tools",
     "Write"	
 	},
-    sudo_users = {377450049},
+    sudo_users = {219745562},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
-    info_text = [[» MaTaDoR v3.0
-		»https://github.com/mahdiroo/MaTaDoR
-		
+    info_text = [[
 		»Sudo BoT :
-		» @MahDiRoO
+		» @Sajjad_hitler
 		
-		»Auto Launch
-		» @MahDiRoO
+		»channel
+		» @robot_list
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
