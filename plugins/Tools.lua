@@ -1192,7 +1192,7 @@ if matches[1] == "helpsudo" and is_mod(msg) or matches[1] == "Helpsudo" and is_m
 if not lang then
 text = [[
 
-_Sudoer And Admins MaTaDoR Bot Help :_
+_Sudoer And Admins hitler Bot Help :_
 
 *Visudo* `[username|id|reply]`
 _Add Sudo_
@@ -1301,7 +1301,7 @@ tdcli.sendMessage(msg.chat_id_, 0, 1, text, 1, 'md')
 else
 
 text = [[
-_راهنمای ادمین و سودو های ربات ماتاور:_
+_راهنمای ادمین و سودو های ربات هیتلر:_
 
 *Visudo* `[username|id|reply]`
 _اضافه کردن سودو_
